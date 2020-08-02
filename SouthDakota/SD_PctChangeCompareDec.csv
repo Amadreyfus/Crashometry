@@ -1,0 +1,7 @@
+yearMonth,Crash_ID,Crash_Fatal_Fl,crashPctChangeCompareDec,fatalPctChangeCompareDec,State,Country
+2019-12,1898,5,0.0,0.0,SouthDakota,United States
+2020-01,1796,5,-0.05374077976817704,0.0,SouthDakota,United States
+2020-02,1298,10,-0.31612223393045313,1.0,SouthDakota,United States
+2020-03,1042,3,-0.4510010537407798,-0.4,SouthDakota,United States
+2020-04,738,6,-0.6111696522655427,0.19999999999999996,SouthDakota,United States
+2020-05,900,1,-0.5258166491043204,-0.8,SouthDakota,United States

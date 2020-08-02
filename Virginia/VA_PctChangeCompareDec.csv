@@ -1,0 +1,6 @@
+yearMonth,Crash_ID,Crash_Fatal_Fl,crashPctChangeCompareDec,fatalPctChangeCompareDec,State,Country
+2019-12,11600,66,0.0,0.0,Virginia,United States
+2020-01,9867,71,-0.1493965517241379,0.07575757575757569,Virginia,United States
+2020-02,9179,61,-0.20870689655172414,-0.0757575757575758,Virginia,United States
+2020-03,7306,57,-0.3701724137931034,-0.13636363636363635,Virginia,United States
+2020-04,5202,52,-0.5515517241379311,-0.21212121212121215,Virginia,United States
